@@ -250,7 +250,7 @@ function create_config( )
 https://github.com/BH-YAGHI/NOD32-BOT.git
 
 channel : @Nod32team
-sodu : @behrooZyaghi
+sodu : @Xx_Fire_Black_King_Admin_01_xX
 ]],
     help_text_realm = [[
 Realm Commands:
