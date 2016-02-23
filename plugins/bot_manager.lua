@@ -187,7 +187,7 @@ return {
   },
   run = run,
 }
---Copyright and edit; فایر بلک
---Persian Translate; هه سودو این بات دیگه
---ch : @anti_spam_raygan
+--Copyright and edit; @behroozyaghi
+--Persian Translate; @behroozyaghi
+--ch : @nod32Team
 --کپی بدون ذکر منبع حرام است
