@@ -220,7 +220,7 @@ return {
 }
 
 end
---Copyright and edit; @behroozyaghi
---Persian Translate; @behroozyaghi
---ch : @nod32team
+--Copyright and edit; فایر بلک
+--Persian Translate; هه سودو این بات دیگه
+--ch : @anti_spam_raygan
 --کپی بدون ذکر منبع حرام است
